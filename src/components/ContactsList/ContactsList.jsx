@@ -1,6 +1,6 @@
 import React from "react";
 import { Contact, DeleteContactBtn } from "./ContactsList.styled";
-// import PropTypes from 'prop-types';
+
 
 const ContactsList = ({ contacts, onRemoveClick }) => (
     <ul>
